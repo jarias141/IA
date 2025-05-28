@@ -1,0 +1,25 @@
+URL 🔴 Phishing
+
+https://docs-learn-trzore.webflow.io/
+
+http://login-google.com.secure-login-update.ru
+
+https://microsoft.account.security-check.com
+
+http://bankofamerica.com.login.securityalert.co
+
+http://facebook.com-account-verify.ru
+
+
+
+URL 🟢 Benigna
+
+https://www.google.com
+
+https://www.amazon.com
+
+https://www.wikipedia.org
+
+https://www.apple.com
+
+https://www.microsoft.com
